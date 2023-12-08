@@ -1,0 +1,25 @@
+.logo{
+    height: 70px;
+}
+.itens > a{
+    font-size: 80%;
+    font-weight: bold;
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+.itens > a:hover{
+    color: #ea9195;
+}
+.ourWork{
+    background-color: #f0eeef !important;
+}
+.image-3{
+    height: 350px;
+}
+.img{
+    width: 20%;
+}
+footer{
+    background-color: black;
+}
